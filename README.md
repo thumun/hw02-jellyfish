@@ -6,7 +6,7 @@
 
 ## Extra Credit: Rendering with Mantra 
 
-<img src="https://github.com/thumun/hw02-jellyfish/blob/main/jellytest.png?raw=true" />
+<img src="https://github.com/thumun/hw02-jellyfish/blob/main/jellyfish2.png?raw=true" />
 
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
