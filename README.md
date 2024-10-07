@@ -16,7 +16,9 @@ The colors were added using the standard shader and an environmental light that 
 
 ## Animated Video!
 
+<p align="center">
 <img src="https://github.com/thumun/hw02-jellyfish/blob/main/jellyflipbook.gif?raw=true" />
+</p>
 (Sorry the gif website made it super small but the mp4 has been uploaded to my repo!)
 
 ## Extra Credit: Rendering with Mantra 
