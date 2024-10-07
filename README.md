@@ -8,6 +8,10 @@
 
 <img src="https://github.com/thumun/hw02-jellyfish/blob/main/jellyfish2.png?raw=true" />
 
+## Sources
+
+Used this HDRI as an environment light: https://www.freepik.com/free-photo/lovely-blue-paint-water_2254487.htm#query=hdri%20underwater&position=26&from_view=keyword&track=ais_hybrid&uuid=245ab81e-fd66-4cd9-92e2-9aed113ba723
+
 ## Project Overview
 In this homework, you'll create a procedural jellyfish using Houdini. This will give you a chance to dig into procedural modeling, as well as some simulation. Here is a breakdown of the different jellyfish parts you'll be putting together:
 
